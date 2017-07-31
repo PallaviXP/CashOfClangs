@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClashOfClangGame", "ClashOfClangGame\ClashOfClangGame.csproj", "{4620581B-37E1-4311-8E0C-D369EB50D888}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClashOfClangTests", "ClashOfClangTests\ClashOfClangTests.csproj", "{C2CBEA22-E31B-4561-8CF2-ED24A2644A7F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,17 @@ Global
 		{4620581B-37E1-4311-8E0C-D369EB50D888}.Release|x64.Build.0 = Release|x64
 		{4620581B-37E1-4311-8E0C-D369EB50D888}.Release|x86.ActiveCfg = Release|x86
 		{4620581B-37E1-4311-8E0C-D369EB50D888}.Release|x86.Build.0 = Release|x86
+		{C2CBEA22-E31B-4561-8CF2-ED24A2644A7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2CBEA22-E31B-4561-8CF2-ED24A2644A7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2CBEA22-E31B-4561-8CF2-ED24A2644A7F}.Debug|x64.ActiveCfg = Debug|x64
+		{C2CBEA22-E31B-4561-8CF2-ED24A2644A7F}.Debug|x64.Build.0 = Debug|x64
+		{C2CBEA22-E31B-4561-8CF2-ED24A2644A7F}.Debug|x86.ActiveCfg = Debug|x86
+		{C2CBEA22-E31B-4561-8CF2-ED24A2644A7F}.Debug|x86.Build.0 = Debug|x86
+		{C2CBEA22-E31B-4561-8CF2-ED24A2644A7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2CBEA22-E31B-4561-8CF2-ED24A2644A7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2CBEA22-E31B-4561-8CF2-ED24A2644A7F}.Release|x64.ActiveCfg = Release|x64
+		{C2CBEA22-E31B-4561-8CF2-ED24A2644A7F}.Release|x64.Build.0 = Release|x64
+		{C2CBEA22-E31B-4561-8CF2-ED24A2644A7F}.Release|x86.ActiveCfg = Release|x86
+		{C2CBEA22-E31B-4561-8CF2-ED24A2644A7F}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
