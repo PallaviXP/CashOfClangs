@@ -31,6 +31,7 @@ namespace ClashOfClangTests
             Assert.Equal(FighterType.Cannon, winner);
         }
 
+        
          [Fact]
         public void GetWinnerInWar_Returns_Barbarian_As_Winner_If_1_Cannon_Vs_10_Barbarian_In_War()
         {
